@@ -1,7 +1,7 @@
 # The Catwomen Game
 ## Catwomen is a game about cat women
 ###fight people 
-save the day
+###save the day
 get a award
 go home
 go to sleep
